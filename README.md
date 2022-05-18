@@ -1,5 +1,8 @@
 # Line BK Alerts to Data
 
+## Install
+- [Python](https://www.python.org/downloads/)
+
 ## how to use
 - open Line PC
 - open Line BK Alerts chat
