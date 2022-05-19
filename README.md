@@ -10,6 +10,7 @@
 - select Sava chat
 - save file in this path
 - make sure filename = "[LINE]LINE BK Alerts.txt" or make change in app.py
+- set initial balance in line 5
 - run app.py
 - copy text in data.txt to google sheets
 - Data -> Split text to columns
